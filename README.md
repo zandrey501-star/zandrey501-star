@@ -124,6 +124,7 @@ Pillow — обработка изображений в интерфейсе
 Визуальный анализ дизайна и упаковки
 Комплексная оценка веб-присутствия конкурентов
 
+_____________________
 Ссылка на описание web-интерфейса: https://github.com/zandrey501-star/Cursor/blob/main/competitor-monitor/README.md
 Ссылка на описание Desktop приложения: https://github.com/zandrey501-star/Cursor/blob/main/competitor-monitor/README_DESKTOP.md
 
