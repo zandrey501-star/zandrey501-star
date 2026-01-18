@@ -124,7 +124,6 @@ Pillow — обработка изображений в интерфейсе
 Визуальный анализ дизайна и упаковки
 Комплексная оценка веб-присутствия конкурентов
 
-_____________________
 Ссылка на описание web-интерфейса: https://github.com/zandrey501-star/Cursor/blob/main/competitor-monitor/README.md
 Ссылка на описание Desktop приложения: https://github.com/zandrey501-star/Cursor/blob/main/competitor-monitor/README_DESKTOP.md
 
@@ -155,7 +154,7 @@ Loguru — продвинутое логирование
 Обучение работе с multiple векторными хранилищами
 Создание reference архитектуры для RAG-систем
 
-
+________________
 📊 Статистика GitHub
 https://github-readme-stats.vercel.app/api?username=zandrey501-star&show_icons=true&theme=radical
 https://github-readme-stats.vercel.app/api/top-langs/?username=zandrey501-star&layout=compact&theme=radical
