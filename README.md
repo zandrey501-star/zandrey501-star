@@ -124,7 +124,7 @@ Pillow — обработка изображений в интерфейсе
 Комплексная оценка веб-присутствия конкурентов
 
 Ссылка на описание web-интерфейса: https://github.com/zandrey501-star/Cursor/blob/main/competitor-monitor/README.md
-Ссылка на описание Desktop приложения: 
+Ссылка на описание Desktop приложения: https://github.com/zandrey501-star/Cursor/blob/main/competitor-monitor/README_DESKTOP.md
 
 ________________
 4. RAG Vector Store Demo — сравнительный анализ векторных БД
