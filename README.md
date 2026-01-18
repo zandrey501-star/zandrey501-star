@@ -150,15 +150,14 @@ Loguru — продвинутое логирование
 
 
 📊 Статистика GitHub
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical
+https://github-readme-stats.vercel.app/api?username=zandrey501-star&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=zandrey501-star&layout=compact&theme=radical
 
 
 📫 Контакты и связи
-Telegram: @your_username
-Email: your.email@example.com
-LinkedIn: Ваше имя
-Хабр Карьера: Профиль
+Telegram: @Zandrey501
+Email: zandrey501@gmail.com
+LinkedIn: Andrey Zakharov https://www.linkedin.com/in/andrey-zakharov-851b1637/
 
 💼 Доступен для
 Разработки кастомных AI-решений для бизнеса
